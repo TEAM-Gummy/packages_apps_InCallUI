@@ -50,5 +50,6 @@
 
     <!-- Button background -->
     <color name="button_background">#000000</color>
+    <color name="incall_button_background">#000000</color>
 
 </resources>
