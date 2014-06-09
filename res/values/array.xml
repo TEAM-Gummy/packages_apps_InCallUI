@@ -20,6 +20,11 @@
 
 <!-- Array resources for the Phone app. -->
 <resources>
+    <string-array translatable="false" name="ims_call_types">
+        <item>Voice</item>
+        <item>Video</item>
+    </string-array>
+
     <!-- "Target" resources for the GlowPadView widget used for incoming calls;
          see InCallTouchUi.showIncomingCallWidget() and incall_touch_ui.xml.  -->
 
