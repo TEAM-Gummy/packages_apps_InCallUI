@@ -24,6 +24,10 @@
     <color name="incall_call_banner_text_color">#FFFFFF</color> <!-- white -->
     <color name="incall_button_background">#2A2A2A</color>
     <color name="incall_call_glowpad_background">#A0000000</color> <!-- semitransparent black -->
+    <color name="transparent_glowpad_background">#40000000</color>
+
+    <!-- DTMF Dialer -->
+    <color name="dtmf_dialer_display_text">#FFFFFF</color> <!-- white -->
 
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">#33B5E5</color>
@@ -63,4 +67,5 @@
 
     <!-- Translucent shadow color -->
     <color name="translucent_shadow">#33999999</color>
+
 </resources>
